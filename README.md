@@ -1,4 +1,4 @@
-# Explorable Explanations - Coordinate Finder / Multiplication Table Primer#
+# Explorable Explanations - Coordinate Finder / Multiplication Table Primer #
 
 Made this when my son wanted to play Battleship, but was having trouble understanding X and Y coordinates. Updated it to serve as a Multiplication table primer when x and y are both numeric.
 
